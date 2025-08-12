@@ -1,2 +1,2 @@
 # Watts-Strogatz-Graph-Generator
-Just for fun I have created a web for generating Watts–Strogatz Graphs.
+I would like to thank ChatGPT-5 for writing the code.
